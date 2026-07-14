@@ -35,7 +35,7 @@
           "_defconfig"
         ];
 
-        board = "nice_nano_v2";
+        board = "nice_nano";
         shield = "sofle_%PART%";
 
         zephyrDepsHash = "sha256-Yom35sq0qg8zJX41PBrsnS2zgz51ywZ9To3yT7aLG/M=";
