@@ -38,7 +38,7 @@
         board = "nice_nano";
         shield = "sofle_%PART%";
 
-        zephyrDepsHash = "sha256-Yom35sq0qg8zJX41PBrsnS2zgz51ywZ9To3yT7aLG/M=";
+        zephyrDepsHash = "sha256-GvtT42CxvQfcEoVjlsT0gMNN0PWR/TiHmNab/My12Kg=";
 
         snippets = [
           "nrf52840-nosd"
